@@ -16,6 +16,7 @@
 > ####   layouts：全局布局
 > ####   models：typeScript 声明
 > ####   pages：页面文件夹
+> ####   servers：请求封装
 > ####   utils：公共函数
 > ####   wrappers：包装器文件夹
 #### **.editorconfig**：代码格式规范
